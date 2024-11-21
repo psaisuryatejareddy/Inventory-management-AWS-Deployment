@@ -93,7 +93,7 @@ const Sidebar = () => {
             isSidebarCollapsed ? "hidden" : "block"
           } font-extrabold text-2xl`}
         >
-          IVM CLOUD DA
+          IVM CLOUD PROJECT
         </h1>
 
         <button
